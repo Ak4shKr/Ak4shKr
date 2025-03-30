@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Akash Kumar!  
-🚀 **Full-Stack Developer | Backend Enthusiast | Problem Solver**  
+<h1 align="center">👋 Hi, I'm Akash Kumar!</h1>  
+<h3 align="center">🚀 Full-Stack Developer | Backend Enthusiast | Problem Solver</h3>  
 
-![👷🏻_♀️](https://github.com/user-attachments/assets/7e710a9b-b8ed-4c8d-b3c0-595336b1fecb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72bf10ef-8530-4904-bee9-ae222b7935dc" alt="pp"/>
+</p>
 
 ## 🚀 About Me  
 - 👀 Passionate about **web technologies** & building scalable applications.  
