@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Ak4shKr
-- 👀 I’m interested in web technology ...
-- 🌱 I’m currently learning Advance Backend dev...
-- 💞️ I’m looking to collaborate on FullStack Web/App dev...
-- 📫 How to reach me, connect on Linkedin: https://www.linkedin.com/in/akash-saha-cod/...
-- 😄 Pronouns: Hey Akash...
+# 👋 Hi, I'm Akash Kumar!  
+🚀 **Full-Stack Developer | Backend Enthusiast | Problem Solver**  
 
+![👷🏻_♀️](https://github.com/user-attachments/assets/7e710a9b-b8ed-4c8d-b3c0-595336b1fecb)
 
-<!---
-Ak4shKr/Ak4shKr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 👀 Passionate about **web technologies** & building scalable applications.  
+- 🌱 Currently exploring **Advanced Backend Development** (Go | Fiber | PostgreSQL | Microservices).  
+- 💡 Love working on **Full-Stack Web & Mobile Apps**.  
+- 🔥 Always learning & experimenting with **system design, performance optimization, and clean code practices**.  
+- 💬 Ask me about **backend architecture, API design, databases, and authentication**.  
+
+## 💼 Let's Connect  
+📬 **LinkedIn**: [Akash Saha](https://www.linkedin.com/in/akash-saha-cod/)  
+🔗 **GitHub**: [Ak4shKr](https://github.com/Ak4shKr)  
+📝 **Portfolio**: _Coming Soon..._  
+
+---
+
+> _"Code. Learn. Repeat."_  
