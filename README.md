@@ -35,7 +35,7 @@
 ## 💼 Let's Connect  
 📬 **LinkedIn**: [Akash Saha](https://www.linkedin.com/in/akash-saha-cod/)  
 🔗 **GitHub**: [Ak4shKr](https://github.com/Ak4shKr)  
-📝 **Resume**: [Ak4shKr]([https://github.com/Ak4shKr](https://drive.google.com/file/d/1RIsFD7V_PSpCUU9malrWfAvtEQCplQ90/view))  
+📝 **Resume**: [View Here](https://drive.google.com/file/d/1RIsFD7V_PSpCUU9malrWfAvtEQCplQ90/view)
 
 ---
 
